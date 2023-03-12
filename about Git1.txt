@@ -1,0 +1,20 @@
+## What is git?
+  Git is a widely used control system around the world. 
+  Git monitors the changes we make to the files, so it keeps a record of 
+  what has been done and allows the user to revert to certain versions 
+  if he needs it. It facilitates collaboration and synchronization by 
+  allowing the changes made by multiple people to be merged in a single point, 
+  field (source).
+
+## Awesome software
+  Being a locally running software, Git has the feature of keeping history. 
+  It allows easy collaboration with other developers as it has a central location
+   where we can upload changes made to the code and download changes from others.
+  The best feature of git is that it automatically merges changes so that two people 
+  can work on different parts of the same file, and then merge these changes without 
+  losing each other's work.
+
+## Which users benefit from Git?
+  Git is useful for anyone who writes code and wants to keep track of changes 
+  to files. Especially Web developers, application developers take advantage 
+  of git's features.

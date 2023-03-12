@@ -1,0 +1,41 @@
+##Git BASICS
+To explain git basically; Various commands are written in the command window.
+
+->git init
+The init command allows to convert a directory into an empty Git repository. 
+It is the first step in creating a repository. After running git init as a command, 
+we can add files or directories and commit them.
+Usage:
+$ git init
+
+->git add
+The add command allows adding files to the staging area. For a file to be eligible
+ to be saved to a repository in git, it must be added to the Git directory.
+If the directory is specific, just git add. can also be used as
+Usage:
+$ git add <file or directory name>
+
+->git commit
+Changes made to files are saved to a local storage. Every commit is unique. 
+Adding messages to commits helps to find and understand a change made.
+Usage:
+$ git commit -m "Message"
+
+->git status
+The status command returns the current state of the repository, ie the current working branch.
+usage:
+$ git status 
+
+->git config
+It is possible to make many configurations and settings with Git.The config command deals with 
+how these settings are assigned. Two important settings are user user.name and user.email. Thanks to these, 
+you introduce yourself 
+to git.
+Usage:
+$ git config
+
+->git merge
+With the merge command we can merge changes from one branch to another.
+Usage:
+$ git merge <branch adı>
+

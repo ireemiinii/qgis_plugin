@@ -1,0 +1,15 @@
+#yeni branch oluşturma
+git branch
+git branch assignment2
+git branch
+git checkout assignment2
+#yeni brancha bir sey yükleme
+git add assignment2way2.py
+git init
+git remote add origin https......yolu koplayalayın
+git remote -v
+git commit -m "way2"
+git push origin assingment2
+
+#branch silme
+git branch -d branchın adı

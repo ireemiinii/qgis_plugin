@@ -1,0 +1,19 @@
+-> git remote
+The remote command is used to mount a local repository to a remote repository.
+Use:
+# Add remote repository
+$ git remote <command> <remote_name> <remote_URL>
+
+-> git pull
+We use the pull command to get the latest version from a repository Thanks to this 
+command we can pull the changes from the remote repository to the local computer
+Usage:
+$ git pull <branch name> <remote_URL/remote_name>
+
+->git push
+The push command allows sending local commits to the remote repository. require two 
+parameters in-process: the remote repository and the branch to which the push belongs.
+Usage:
+$ git push <remote_URL/remote_name> <branch>
+# all local branches are pushed to the remote repository
+$ git push —all
